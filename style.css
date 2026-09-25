@@ -13,6 +13,7 @@
     --radius: 6px;            /* corner rounding, everywhere */
     --font: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
 }
+
 /* ---------- base ---------- */
 * {
     margin: 0;
