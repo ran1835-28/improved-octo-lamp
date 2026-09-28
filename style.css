@@ -10,7 +10,7 @@
     --paper: #FFFFFF;         /* the card */
     --background: #FAFAFA;    /* the page behind the card */
     --line: #E5E5E5;          /* borders and rules */
-    --radius: 6px;            /* corner rounding, everywhere */
+    --radius: 20px;            /* corner rounding, everywhere */
     --font: "Segoe UI", system-ui, -apple-system, Helvetica, Arial, sans-serif;
 }
 
